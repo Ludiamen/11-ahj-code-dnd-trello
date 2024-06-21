@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/mk8fslmjaieoghdx?svg=true)](https://ci.appveyor.com/project/Ludiamen/11-ahj-code-dnd-trello)
 
-![CI](https://github.com/ludiamen/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/ludiamen/11-ahj-code-dnd-trello/actions/workflows/web.yml/badge.svg)
 
 [Сcылка на GitHub Pages](https://ludiamen.github.io/11-ahj-code-dnd-trello/)
 
